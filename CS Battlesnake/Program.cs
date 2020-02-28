@@ -13,7 +13,7 @@ namespace CS_Battlesnake
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("AYYY HELLO WORLD RPI!");
+			Console.WriteLine("HELLO WORLD RPI!");
 			CreateHostBuilder(args).Build().Run();
 		}
 
